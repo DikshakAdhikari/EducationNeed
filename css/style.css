@@ -159,6 +159,7 @@ html{
 .section-left{
  flex-direction: row-reverse;
 }
+
 .paras{
     padding: 0px 65px;
 }
@@ -222,4 +223,3 @@ html{
     height: 4px;
     margin: 5px 3px;
 }
-
